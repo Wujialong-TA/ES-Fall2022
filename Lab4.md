@@ -18,6 +18,9 @@
 ![1](https://user-images.githubusercontent.com/89715433/174972691-fe1d9ebd-1349-460f-aaf1-236440889f71.jpg)
 加減乘除
 ![2](https://user-images.githubusercontent.com/89715433/174972767-a6999fd1-e3b9-469e-81bd-722dfa98868f.jpg)
+
+
+
 #!/bin/bash
 
 # add, subtract, multiply, divide 2 numeric value
